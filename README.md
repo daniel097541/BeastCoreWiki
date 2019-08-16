@@ -6,7 +6,8 @@ This is BeastCore the beast core for the beasts servers!
 
 
 ## Help Guides
-- [x] [MAIN FEATURES](https://github.com/daniel097541/BeastFactionsWiki/wiki/Commands-and-Permissions)
+- [x] [ANTI-GLITCH FEATURES](https://github.com/daniel097541/BeastFactionsWiki/wiki/Commands-and-Permissions)
+- [x] [ADD-ON FEATURES](https://github.com/daniel097541/BeastFactionsWiki/wiki/Commands-and-Permissions)
 - [x] [PLACEHOLDERS](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-permissions)
 - [x] [CONFIG FILES](https://github.com/daniel097541/BeastFactionsWiki/wiki/Faction-warps)
 - [x] [TOS](https://github.com/daniel097541/BeastFactionsWiki/wiki/Customizable-roles)
