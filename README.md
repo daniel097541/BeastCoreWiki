@@ -7,7 +7,7 @@ This is BeastCore the beast core for the beasts servers!
 
 ## Help Guides
 - [x] [ANTI-GLITCH FEATURES](https://github.com/daniel097541/BeastCoreWiki/wiki/Anti-Glitch-features)
-- [x] [COMBAT-TAG](https://github.com/daniel097541/BeastCoreWiki/wiki/Add-Ons)
+- [x] [COMBAT-TAG](https://github.com/daniel097541/BeastCoreWiki/wiki/Combat-Tag)
 - [x] [PLACEHOLDERS](https://github.com/daniel097541/BeastCoreWiki/wiki/Placeholders)
 - [x] [CONFIG FILES](https://github.com/daniel097541/BeastCoreWiki/wiki/Config-files)
 - [x] [TOS](https://github.com/daniel097541/BeastFactionsWiki/wiki/Customizable-roles)
